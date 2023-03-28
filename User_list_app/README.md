@@ -4,7 +4,7 @@ Steps to Run this Web-App
 
     git clone 	https://github.com/dipak2811/User_list_app.git
 
-    git checkout User_list_app
+    git checkout User_list_app_ui
 
     Now if you have node installed in your system run below command in terminal inside User_list_app(if not installed install first)
 
